@@ -11,7 +11,7 @@ number = 750
 // Constants
 let language = "Swift"
 
-// reassinging language will cause an error
+// reassigning language will cause an error
 //language = "Objective-C"
 //Programing Concepts:
 //variables are mutable and can be changed...
@@ -25,7 +25,7 @@ let language = "Swift"
 */
 
 /*
-  Rule 2: Use a Convention for your varibles
+  Rule 2: Use a Convention for your variables
   Most Swift Programmers use camelCase
 
   //wrong
@@ -53,4 +53,4 @@ let yearOfRetirment: Int = 2003
 let hallOfFame: Bool = true
 
 //Swift's compiler also has type inference and unlike Objective-C
-//Objective-C was VERY explicit with types 
+//Objective-C was VERY explicit with types
